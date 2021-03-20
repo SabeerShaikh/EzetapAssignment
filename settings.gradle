@@ -1,0 +1,3 @@
+rootProject.name = "EzetapAssignment"
+include ':networkmodule'
+include ':app'
